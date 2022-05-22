@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    int numberator = 1;
+    int numberator = 1; //new comment right boiiiiiiiiiiiiiiiiiii
     int denominator = 2;
     int choice;
     int sequence = 0;
