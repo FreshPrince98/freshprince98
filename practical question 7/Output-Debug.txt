@@ -1,0 +1,14 @@
+﻿'ConsoleApplication1.exe' (Win32): Loaded 'C:\Users\270209428\OneDrive - UP Education\Documents\Delear_Goolmorade_CS102 Practical Test\practical question 7\ConsoleApplication1\Debug\ConsoleApplication1.exe'. Symbols loaded.
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4d28 has exited with code 0 (0x0).
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ConsoleApplication1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x2f08 has exited with code 0 (0x0).
+The thread 0x4ab0 has exited with code 0 (0x0).
+The program '[5564] ConsoleApplication1.exe' has exited with code 0 (0x0).
